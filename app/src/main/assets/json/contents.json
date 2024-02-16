@@ -1,0 +1,304 @@
+{
+  "contents": [
+    {
+      "body": "1. Apa yang dimaksud dengan IDE dalam pemrograman?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Independent Development Environmentak",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Integrated Development Environment",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Intelligent Design Environment",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Interface Development Environmentdak",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "2.  Bahasa pemrograman apa yang umumnya digunakan untuk pengembangan aplikasi Android?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Java",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "C++",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Python",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Ruby",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "3.  Apa fungsi dari HTML dalam pengembangan web?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Bahasa Pemrograman",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Gaya Penulisan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Markup Bahasa",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Gaya Desain",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "4. Apa perbedaan antara metode GET dan POST dalam HTTP?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "GET digunakan untuk mengirim data, POST untuk menerima data.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "GET digunakan untuk menerima data, POST untuk mengirim data.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Keduanya hanya digunakan untuk mengirim data.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Keduanya hanya digunakan untuk menerima data.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "5.  Apa yang dimaksud dengan debugging dalam pemrograman?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Proses menghasilkan kode yang lebih ringkas.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Proses menemukan dan memperbaiki kesalahan dalam kode.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Proses menggabungkan beberapa program menjadi satu.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Proses menguji performa aplikasi.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "6. Apa kegunaan dari operator '==' dalam banyak bahasa pemrograman?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Menggabungkan dua variabel.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Menentukan apakah dua nilai sama.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Mengalikan dua nilai.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Membagi dua nilai.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "7.  Apa yang dilakukan oleh pernyataan 'break' dalam loop?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Menghentikan eksekusi loop dan keluar dari loop.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Melanjutkan eksekusi loop tanpa mengevaluasi kondisi.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Mengubah kondisi loop.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Menghentikan program secara keseluruhan.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "8. Apa yang dimaksud dengan 'version control' dalam pengembangan perangkat lunak?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Proses mengontrol versi perangkat keras.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Proses mengelola versi perangkat lunak dan melacak perubahan.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Proses mengontrol versi sistem operasi.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Proses mengelola versi database.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "9. Apa perbedaan antara 'NULL' dan 'undefined' dalam pemrograman JavaScript?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Keduanya memiliki arti yang sama.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "'NULL' digunakan untuk variabel yang belum diinisialisasi, sementara 'undefined' digunakan untuk variabel yang tidak ada.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "'NULL' digunakan untuk variabel yang tidak ada, sementara 'undefined' digunakan untuk variabel yang belum diinisialisasi.",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Keduanya hanya dapat digunakan dalam konteks yang sama.",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "10. Apa yang dimaksud dengan API?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Application Programming Interface",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Advanced Programming Interface",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Application Process Interface",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Advanced Process Interface",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    }
+  ]
+}
